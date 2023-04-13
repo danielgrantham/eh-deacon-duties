@@ -1,0 +1,15 @@
+{
+  "name": "deacon-duty-webpage",
+  "version": "1.0.0",
+  "description": "Translates the deacon duty spreadsheet to an HTML page for Congregate",
+  "main": "xls-to-html.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grantham, Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
